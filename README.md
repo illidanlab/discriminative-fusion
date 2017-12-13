@@ -27,3 +27,13 @@ overwrite: if True, the current setting will overwrite existing results
 
 
 
+As you use this code for your exciting discoveries, please cite the paper below:
+@inproceedings{wang2016discriminative,
+  title={Discriminative fusion of multiple brain networks for early mild cognitive impairment detection},
+  author={Wang, Qi and Zhan, Liang and Thompson, Paul M and Dodge, Hiroko H and Zhou, Jiayu},
+  booktitle={Biomedical Imaging (ISBI), 2016 IEEE 13th International Symposium on},
+  pages={568--572},
+  year={2016},
+  organization={IEEE}
+}
+paper link: http://jiayuzhou.github.io/papers/qwangISBI16.pdf
