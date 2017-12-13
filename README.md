@@ -26,7 +26,7 @@ classifier_param: parameter to control model complexity to prevent overfitting
 overwrite: if True, the current setting will overwrite existing results
 
 
-
+# About
 As you use this code for your exciting discoveries, please cite the paper below:
 ```
 @inproceedings{wang2016discriminative,
