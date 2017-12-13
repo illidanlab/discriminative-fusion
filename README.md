@@ -38,4 +38,4 @@ As you use this code for your exciting discoveries, please cite the paper below:
   organization={IEEE}
 }
 ```
-paper link: (http://jiayuzhou.github.io/papers/qwangISBI16.pdf)
+paper link: http://jiayuzhou.github.io/papers/qwangISBI16.pdf
