@@ -13,7 +13,7 @@ The main entrance of the program is `classify.m`. The inputs of this function ar
 
 - `group`: labels of all samples, i.e., 1, 2, 3
 
-- `pos_class_arr`: postive class labels array. For example, if `group == 1` and `group == 2` all denote postive class, `pos_class_arr = [1, 2]` 
+- `pos_class_arr`: postive class labels array. For example, if `group == 1` and `group == 2` all denote postive class, pos_class_arr = [1, 2] 
 
 - `neg_class_arr`: negative class lables array.
 
