@@ -6,15 +6,24 @@ In neuroimaging research, brain networks derived from different tractography met
 The main function is called classify.m. The input of this function is as follows: 
 
 result_dir: directory to save results
+
 task_name: name of the task, e.g. 'classification AD with MCI'
-X:input data. It is a n*d*m tensor. n is sample size, d is feature
-   dimension, m is modalities number.
+
+X:input data. It is a n*d*m tensor. n is sample size, d is feature dimension, m is modalities number.
+
 group: labels of all samples, i.e., 1, 2, 3
+
 pos_class_arr: postive class labels array. For example, if group == 1 and group == 2 all denote postive class, pos_class_arr = [1, 2] 
+
 neg_class_arr: negative class lables array.
+
 repeat_exp: number of validaton folds. 
+
 method_str: 'fusion'
+
 classifier_param: parameter to control model complexity to prevent overfitting
+
 overwrite: if True, the current setting will overwrite existing results
+
 
 
